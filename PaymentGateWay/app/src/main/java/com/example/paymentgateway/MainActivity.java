@@ -14,7 +14,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 public class MainActivity extends AppCompatActivity implements PaymentResultListener {
-
+/*this is the payment gateway application by Mr.Sai sankar*/
     /*For Generating APIKEY goto Web Site: https://razorpay.com/*/
     String APIKEY = "Paste your API KEY Here";
 
